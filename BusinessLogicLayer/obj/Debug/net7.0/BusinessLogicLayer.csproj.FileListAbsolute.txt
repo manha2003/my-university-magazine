@@ -1,0 +1,17 @@
+D:\PresentationLayer\BusinessLogicLayer\bin\Debug\net7.0\BusinessLogicLayer.deps.json
+D:\PresentationLayer\BusinessLogicLayer\bin\Debug\net7.0\BusinessLogicLayer.dll
+D:\PresentationLayer\BusinessLogicLayer\bin\Debug\net7.0\BusinessLogicLayer.pdb
+D:\PresentationLayer\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\PresentationLayer\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PresentationLayer\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\PresentationLayer\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\PresentationLayer\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\PresentationLayer\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.dll
+D:\PresentationLayer\BusinessLogicLayer\obj\Debug\net7.0\refint\BusinessLogicLayer.dll
+D:\PresentationLayer\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.pdb
+D:\PresentationLayer\BusinessLogicLayer\obj\Debug\net7.0\ref\BusinessLogicLayer.dll
+D:\PresentationLayer\BusinessLogicLayer\bin\Debug\net7.0\BusinessLogicLayer.runtimeconfig.json
+D:\PresentationLayer\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.genruntimeconfig.cache
+D:\PresentationLayer\BusinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\PresentationLayer\BusinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\PresentationLayer\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.csproj.CopyComplete
