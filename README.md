@@ -16,7 +16,7 @@ A modern web platform revolutionizing Greenwich University's magazine publicatio
 ## 🛠 Technology Stack
 
 **Backend:**  
-![.NET CORE/.NET WEB API]
+  .NET CORE/.NET WEB API
 
 **Database:**  
-![SQL SERVER]
+  SQL SERVER
